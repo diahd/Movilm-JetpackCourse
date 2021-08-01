@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Movilm</string>
+    <string name="title_activity_detail_film">Detail Film</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title is here</string>
+    <string name="rating">Rating</string>
+    <string name="date">Date Release</string>
+    <string name="duration">Duration</string>
+    <string name="genre">Genre: </string>
+    <string name="date_release">Date Release: %s</string>
+    <string name="overview">Overview</string>
+    <string name="overview_text">Overview is here</string>
+    <string name="score">%s/10</string>
+    <string name="year">Year</string>
+    <string name="movie">Movie</string>
+    <string name="tvshow">TV Show</string>
+    <string name="background">background</string>
+    <string name="poster">poster</string>
+    <string name="circle">circle</string>
+    <string name="add">add list</string>
+    <string name="rate">rate</string>
+    <string name="share">share</string>
+</resources>
